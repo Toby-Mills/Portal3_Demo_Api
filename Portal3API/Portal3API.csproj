@@ -110,7 +110,6 @@
     <Compile Include="Interfaces\ILicenseRepository.cs" />
     <Compile Include="Models\clsLicenseModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\clsLicenseMockRepository.cs" />
     <Compile Include="Repositories\clsLicenseRepository.cs" />
   </ItemGroup>
   <ItemGroup>
